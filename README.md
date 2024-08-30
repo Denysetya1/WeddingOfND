@@ -18,4 +18,4 @@ Website ini merupakan website managament Invitation Wedding Online yang dibuat u
 <img width="1280" alt="doa" src="https://github.com/user-attachments/assets/f4f03e0b-d80a-4590-9277-ede30b46a6df">
 <img width="1280" alt="hadir" src="https://github.com/user-attachments/assets/4466a8eb-363a-4363-b9fb-98be64c1f7a9">
 <img width="1280" alt="pengantin" src="https://github.com/user-attachments/assets/cdad6ab2-497f-47a2-a2db-702da2980910">
-<img width="1280" alt="tamu" src="https://github.com/user-attachments/assets/edef3191-8b04-4220-91e6-68890fe57fad">
+<img width="1280" alt="tamu" src="https://github.com/user-attachments/assets/3c8922f7-be16-42b1-9577-8ca3c88d940d">
